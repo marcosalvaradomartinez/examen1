@@ -2,3 +2,5 @@ Tengo que comentar una cosa y es que no he hecho el footer ya que no me dejaba h
 pero he decidido deja el footer y enfocarme en otras cosas.
 Tambien no sabía como hacer lo de las estrellas al igual que lo del texto subrayado de los precios.
 
+https://github.com/marcosalvaradomartinez/examen1
+https://examen1llm.netlify.app/
